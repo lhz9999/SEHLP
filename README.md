@@ -2,7 +2,7 @@
 
 ## Environment
 
-* python                        3.8
+* python                        3.10
 * accelerate                    0.21.0
 * bitsandbytes                  0.42.0
 * gradio                        4.19.2
