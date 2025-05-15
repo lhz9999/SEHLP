@@ -14,7 +14,7 @@
 
 Install the dependencies using pip:
   ```
-  pip install -r requirements.txt
+  pip install -r requirement.txt
   ```
 ## Usage
    ```
@@ -28,6 +28,6 @@ To our knowledge, publicly available datasets that leverage analyst reports and 
 ```
 {"instruction": "[prompt]", "input": "[report and summary]", "output": "[label]"}
 ```
-The raw texts and preprocessed data will be publicly available in the near future. If you want to use this dataset, please request my supervisor at qkpeng@xjtu.edu.cn.
+The raw texts and preprocessed data will be publicly available in the near future. If you want to use this dataset, please request my supervisor at qkpeng@mail.xjtu.edu.cn.
 
 
